@@ -6,4 +6,4 @@ CCTV-3综艺,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cct
 
 重庆影视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cqyingshiHD/__op/default/__f//index.m3u8
 
-重庆时尚,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cqssgwHD/__op/default/__f//index.m3u8
+重庆时尚,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
